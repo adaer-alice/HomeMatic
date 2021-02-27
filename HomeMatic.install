@@ -1,0 +1,24 @@
+{
+	"name": "HomeMatic",
+	"speakableName": "HomematicSkill",
+	"version": "0.0.1",
+	"icon": "fab fa-battle-net",
+	"category": "automation",
+	"author": "adaer-alice",
+	"maintainers": [],
+	"desc": "Skill to use on homematic hardware",
+	"aliceMinVersion": "1.0.0-b5",
+	"pipRequirements": [
+		""
+	],
+	"systemRequirements": [
+		""
+	],
+	"conditions": {
+		"lang": [
+			"en"
+		],
+		"online": true,
+		"asrArbitraryCapture": true
+	}
+}
